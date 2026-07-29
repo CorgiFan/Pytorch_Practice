@@ -23,6 +23,7 @@ on high-level fit()-style APIs.
 
 ## Results
 Best validation accuracy: **93.9%**
+![Confusion Matrix](confusion_matrix.png)
 
 ## What I'd improve with more time
 - Try transfer learning with a pretrained ResNet/EfficientNet backbone
