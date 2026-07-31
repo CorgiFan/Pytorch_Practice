@@ -35,6 +35,7 @@ excluding blank sweeps.
 | Chance level | 12.5% |
 | Baseline (averaged activity) | 18.3% |
 | **RNN (full time-course)** | **37.5%** |
+![Confusion Matrix](rnn_confusion_matrix.png)
 
 The RNN roughly doubled the baseline's accuracy, suggesting the *timing* of 
 neural activity within a trial carries meaningful additional information 
